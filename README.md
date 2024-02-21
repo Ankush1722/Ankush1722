@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankushdeep Singh</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 💬 Ask me about **C++, HTML, CSS, Unix.**
+- 💬 Ask me about **HTML, CSS, Unix.**
 
 - 📫 How to reach me **ankushpanesar1@gmail.com**
 
